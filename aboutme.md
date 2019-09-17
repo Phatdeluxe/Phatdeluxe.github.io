@@ -5,7 +5,7 @@ title: About me
 
 My name is Ethan Skamarock. I was born and raised at the base of the foothills in Boulder, Colorado.
 
-I am currently attending school online at [Lambda School](https://lambdaschool.com/ "Lambda's Homepage) taking classes in data science.
+I am currently attending school online at [Lambda School](https://lambdaschool.com/ "Lambda's Homepage") taking classes in data science.
 
 I have an extreme love of dogs. This is my previous dog Troika:
 
