@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Data Storytelling Project on Drug Abuse
+bigimg: /img/Gath.jpg
 comments: true
 ---
 
@@ -10,7 +11,5 @@ It can be found [here on Medium](https://medium.com/@ethan.skamarock/will-there-
 
 It covers how much it is increasing, some of the reasons that the problem exists in the first place, 
 and some potential steps we can take towards solving the problem
-
-![Gross Rise](img/Graph.jpg)
 
 The code for this project can be found [here on Github](https://github.com/Phatdeluxe/Portfolio-Projects/blob/master/Portfolio_project_OD_deaths.ipynb/ "Github OD Death Project")
