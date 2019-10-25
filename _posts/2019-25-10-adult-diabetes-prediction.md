@@ -1,4 +1,10 @@
-## Predictive modeling project
+---
+layout: post
+title: Predicting % Adult Diabetes Per County
+comments: true
+---
+
+## Predicting Adult Diabetes
 
 For the last month I have been working to make a model that predicts the percentage of adults with diabetes for a given US county. 
 
