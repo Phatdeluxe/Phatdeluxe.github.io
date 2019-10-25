@@ -8,6 +8,8 @@ comments: true
 
 For the last month I have been working to make a model that predicts the percentage of adults with diabetes for a given US county. 
 
+![Choropleth](https://raw.githubusercontent.com/Phatdeluxe/Phatdeluxe.github.io/master/img/Choropleth_diabetes.png)
+
 If you want to learn more about the model, I made an app for demonstration purposes
 You can find the app [here on Heroku](http://adult-diabetes-predictor.herokuapp.com/)
 
