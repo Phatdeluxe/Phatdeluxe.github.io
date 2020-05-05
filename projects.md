@@ -5,6 +5,14 @@ title: Projects
 
 # Predictive Models
 
+### Air BnB Price Predictor
+
+Worked on a team to create a neural network that predicts the price of an Air BnB.
+
+The repo for the project can be found [here on github](https://github.com/AirBnB-dream-team/DS).
+
+The repo for my personal model can be found [here on github](https://github.com/Phatdeluxe/Unit_4_build_week).
+
 ### Adult Diabetes Predictor
 
 Using an XGBoosted regressor, trained a model to predict the % of adults with diabetes.
