@@ -9,6 +9,8 @@ title: Projects
 
 Worked on a team to create a neural network that predicts the price of an Air BnB.
 
+I worked with two other data scientists to create a model, but I believe that model creation is not something that can easily be done by multiple people. Instead we made it a bit of friendly competition, and we all created models and used the model that had the lowest MAE (mean average error). Unfortunatly my model did not win the competition, but you can find it below if you are curious at looking at it.
+
 The repo for the project can be found [here on github](https://github.com/AirBnB-dream-team/DS).
 
 The repo for my personal model can be found [here on github](https://github.com/Phatdeluxe/Unit_4_build_week).
