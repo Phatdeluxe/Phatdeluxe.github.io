@@ -5,10 +5,6 @@ title: Projects
 
 # Predictive Models
 
-### Med Cabinet Strain Recommender
-
-
-
 ### Adult Diabetes Predictor
 
 Using an XGBoosted regressor, trained a model to predict the % of adults with diabetes.
