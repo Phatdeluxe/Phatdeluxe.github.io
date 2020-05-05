@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+<br/><br/>
+
 # Predictive Models
 
 ### Air BnB Price Predictor
