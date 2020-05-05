@@ -25,6 +25,8 @@ A blog post I wrote about the work can be found [here on Medium](https://medium.
 
 The repo can be found [here on github](https://github.com/Phatdeluxe/adult_diabetes_prediction)
 
+<br/><br/>
+
 # Data Exploration
 
 ### Drug abuse data storytelling project
@@ -34,6 +36,8 @@ Looked through the CDC's Multiple Cause of Death (Detailed Mortality) and found 
 A blog post can be found [here on medium](https://medium.com/@ethan.skamarock/will-there-ever-be-change-to-this-epidemic-3c4ae69a30ba).
 
 The repo can be found [here on github](https://github.com/Phatdeluxe/Portfolio-Projects/blob/master/Portfolio_project_OD_deaths.ipynb/).
+
+<br/><br/>
 
 # App Creation
 
