@@ -31,6 +31,11 @@ The repo can be found [here on github](https://github.com/Phatdeluxe/adult_diabe
 
 # Data Exploration
 
+### C4ADS Nuclear Fuel Cycle
+
+I worked on a project for C4ADS. The goal of this project was to create a model that could predict whether or not a company had the capability to create precision materials that could be used in the creation of nuclear fuels or weaponry.
+I made a longer post about his that can be found [here on my website](http://www.ethanskamarock.com/2020-05-07-nuclear-fuel-cycle.md/)
+
 ### Drug abuse data storytelling project
 
 Looked through the CDC's Multiple Cause of Death (Detailed Mortality) and found some disturbing statistics.
