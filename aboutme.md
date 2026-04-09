@@ -1,17 +1,1 @@
----
-layout: page
-title: About me
----
-
-My name is Ethan Skamarock. I was born and raised at the base of the foothills in Boulder, Colorado.
-
-I am currently attending school online at [Lambda School](https://lambdaschool.com/ "Lambda's Homepage") taking classes in data science.
-
-I have an extreme love of dogs. This is my previous dog Troika:
-
-![Troika](img/troikaStairsCrop.jpg)
-![Troika](img/troikaStandingCrop.jpg)
-
-When I am not sitting at my computer struggling with code I am writing or playing videogames with my friends, you may find me outside snowboarding, rock climbing, longboarding, hiking, or playing a round of disc golf.
-
-I hope to rejoin the working world as a Data scientist in the spring/summer of 2020
+I am a Senior at CU Boulder and will be graduating with a BA in Computer Science with a minor in Computer Engineering. After spending time working odd jobs, traveling, and skiing, I transferred into CU with my Associates degree in the spring of 2024 to further my education as I had found my career calling. I am enthralled by the union of computer hardware and software, and love working on lower level systems code. Embedded software development and software engineering are my passions and I am excited to learn more about both of these topics. I love the challenge of trying to find simple yet elegant solutions to complex problems as if they were a puzzle looking to be put together. As well as completing the coursework to earn my BA, I have worked for and managed the IT department for RM3 Labs where I created Python scripts to streamline workflows of the lab techs, saving time and money. I also designed purpose built workflows for new testing protocols, as well as leveraged complex SQL queries to feed data to the lab tech and the executive team. I am currently seeking positions related to embedded software design and software engineering, focusing on lower level design, or stand alone programs. If you are interested in my skills, please feel free to email me at ethan.skamarock@gmail.com 
