@@ -22,6 +22,7 @@ description: Data Scientist
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
+  Resume: "resume"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -29,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/IMG_1362 (2).JPG"
+avatar: "/img/SquareHeadshot.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -74,7 +75,7 @@ social-network-links:
   github: Phatdeluxe
 #  twitter:
 #  reddit: yourname
-#  linkedin: ethanskamarock
+  linkedin: ethanskamarock
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
