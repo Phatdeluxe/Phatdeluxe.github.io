@@ -5,7 +5,29 @@ title: Projects
 
 <br/><br/>
 
-# Predictive Models
+# CU Boulder
+
+### STM32 Battleship game:
+Using an STM32f429 discovery board I programmed the game of battleship. Using the provided I wrote software to run the game of battleship with both one-player and two-player options. The on board systems it uses is the touch screen, which is communicated with using I2C and a timer and a GPIO button running using interrupts. This project was interesting because we essentially wrote software that in any other scenario would be written using some form of class based language, but we wrote it in C. This had many challenges as during the class I made this in, we mostly interacted with peripherals through GPIO with little care for data structures. However much of this game required some form of data organization, because once all the embedded side of the project was finished (GPIO, Touch screen, timers) it was all data handling and workflows. Through finishing this project I feel like a better C developer, knowing to pass references to structs as an argument of a function instead of having the function return a struct.
+
+One challenge I faced while programming this was handling the AI when it finally made a hit. As a human player, I can pretty easily deduce where to check next based on the given information, but to reproduce that algorithmically/iteratively is another question. After scrapping a terrible nested if-else statement I decided to settle for creating a depth first search approach, which would be concise, but not entirely efficient as far as winning the game goes.
+
+### RISC-V pipelined processor:
+I created a schematic and designed a simulation for a RISC-V pipelined processor in my Computer Organization class. This involved writing the logic for all stages, fetch, decode, execute, memory, and writeback. This also included never jump branch prediction, and memory/writeback bypassing. I would say this was a team effort as much of the simulation was already coded for me, but much of the instruction definition and stage logic was left for me to figure out. This shows not only a competency with the C language, but also an understanding of the control and data flow of a RISC-V processor. 
+
+### Tiago-Lite:
+For this project I programmed a Tiago-Lite robot to dynamically grab jars off one table and put them on a different table. This was done using Python and the WeBots simulator. This project involved writing functions for a behavior tree to drive the robot's decision making, using camera input to detect the jars and their position, and lidar to map the environment and determine where the robot is able to move. I worked on this alone, some code and guidance was provided by the professor, but all of the code and robot logic was written by me. This took a lot of understanding of how robots function, and how the data received by the sensors could be turned into something the robot can understand. It also required a good understanding of behavior trees and how they can simulate artificial intelligence and decision making.
+
+### Verilog mastermind game:
+I wrote a program in Verilog for a Xilinx FPGA that was essentially the game of Mastermind, where there is a pseudo-randomly generated pattern and you have 10 guesses to determine the pattern, and each guess will show the number of correct options in the correct spaces and the number of correct options in the incorrect spaces. As stated this was written in Verilog for the Xilinx FPGA. All the code was written by hand by myself. This project was written using a rather complex state machine as the design restrictions on this specific FPGA were 4 buttons and 16 switches, so there was a bit of knowledge on how to play required. Essentially you had one state machine keeping track of the current guess and another keeping track of the current button input, as well as an array remembering what the previous guesses were so a player could go back and review them.
+
+One challenge of this was setting up that array memory system so a player could return to previous guesses and see how they were scored to make informed guesses on further attempts. This was essentially solved by having each switch refer to a turn, and by having only that switch set you could see what that guess was, and how it was scored. This unfortunately required execution knowledge of the player, but once understood, I think it worked quite nicely.
+
+<br/><br/>
+
+# Data Science
+
+## Predictive Models
 
 ### Air BnB Price Predictor
 
@@ -29,7 +51,7 @@ The repo can be found [here on github](https://github.com/Phatdeluxe/adult_diabe
 
 <br/><br/>
 
-# Data Exploration
+## Data Exploration
 
 ### C4ADS Nuclear Fuel Cycle
 
@@ -46,7 +68,7 @@ The repo can be found [here on github](https://github.com/Phatdeluxe/Portfolio-P
 
 <br/><br/>
 
-# App Creation
+## App Creation
 
 ### Med-Cabinet Strain Recommender
 
